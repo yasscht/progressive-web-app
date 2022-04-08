@@ -1,3 +1,15 @@
+# PWA Definition (Progressive web app)
+
+A progressive web app (PWA) is a website that looks and behaves as if it is a mobile app. PWAs are built to take advantage of native mobile device features, without requiring the end user to visit an app store, make a purchase and download software locally. Instead, a PWA can be located with a search engine query and accessed immediately through a browser.
+
+# App purpose
+
+this app is quite simple but it cove an important concept which is the PWA and it s features
+
+# live demo : https://vermillion-naiad-4ed4d0.netlify.app/
+
+You can use the app even localy if you want to install it
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
